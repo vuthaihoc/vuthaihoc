@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**vuthaihoc/vuthaihoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on DC
+- 💬 Talk with me about
+  - Web development
+  - Widows/Linux/Macos/Centos/Ubuntu
+  - PHP/Go/Python/Js
+  - New Technology
+  - Mobile/PC/Laptop
+- 📫 How to reach me: 🤙 0888830358 
 
-Here are some ideas to get you started:
+## Stat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My github stats](https://github-readme-stats.vercel.app/api?username=vuthaihoc&show_icons=true&hide_border=true)
+
